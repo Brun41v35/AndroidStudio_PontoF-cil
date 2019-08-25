@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cognizant</string>
+    <string name="lembrar_para_lan_ar_horas">Lembrar para Lançar horas</string>
+    <string name="pressione_para_lan_ar_horas">Pressione para Lançar Horas</string>
+</resources>
